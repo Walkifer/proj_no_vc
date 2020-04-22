@@ -1,0 +1,9 @@
+]0;~/JohnsHopkins/proj_no_vc[?1034h644-mbp-82601:proj_no_vc johnsonm5$ [K644-mbp-82601:proj_no_vc johnsonm5$ cd 
+]0;~644-mbp-82601:~ johnsonm5$ `cd ~/JohnsHopkins/proj_ no_vc/
+> 
+]0;~644-mbp-82601:~ johnsonm5$ cd ~/johnsonm5/JohnsHopk ins/proj_no_vc
+bash: cd: /Users/johnsonm5/johnsonm5/JohnsHopkins/proj_no_vc: No such file or directory
+]0;~644-mbp-82601:~ johnsonm5$ cd ~/JohnsHopkins/proj_n o_vc/
+]0;~/JohnsHopkins/proj_no_vc644-mbp-82601:proj_no_vc johnsonm5$ git ii[Knit
+Reinitialized existing Git repository in /Users/johnsonm5/JohnsHopkins/proj_no_vc/.git/
+]0;~/JohnsHopkins/proj_no_vc644-mbp-82601:proj_no_vc johnsonm5$ git add .
